@@ -23,9 +23,9 @@ print(lotto)
 
 
 greet = 'Hello Rishu'
-print(len(greet))
+print(len(greet)) # len() function in string
 
 z = [1, 3, 'Bob' , 3.0, 'Print']
-print(len(z))
+print(len(z))  # len() function with list
 
 
